@@ -114,3 +114,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+/Chapter01/training-log/events.out.tfevents.1627279766.LAIN
